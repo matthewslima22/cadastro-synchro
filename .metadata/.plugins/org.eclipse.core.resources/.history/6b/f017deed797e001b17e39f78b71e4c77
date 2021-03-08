@@ -1,0 +1,5 @@
+package com.synchro.cadastro.entities;
+
+public class RegisterUser {
+
+}

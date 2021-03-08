@@ -1,0 +1,18 @@
+.home-title {
+  font-weight: bold;
+  font-size: 55px;
+  line-height: 58px;
+  letter-spacing: -0.015em;
+  color: var(--dark-color);
+  margin-bottom: 40px !important;
+}
+
+.home-subtitle {
+  font-weight: normal;
+  font-size: 20px;
+  line-height: 33px;
+  letter-spacing: -0.015em;
+  color: var(--secondary-color);
+  margin-bottom: 30px;
+  text-align: center;
+}

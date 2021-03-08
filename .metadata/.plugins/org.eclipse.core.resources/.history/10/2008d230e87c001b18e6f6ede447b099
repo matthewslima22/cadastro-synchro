@@ -1,0 +1,5 @@
+package com.synchro.cadastro.repositories;
+
+public interface Register {
+
+}
