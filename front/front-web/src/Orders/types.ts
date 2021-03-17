@@ -1,6 +1,6 @@
 
 
-export type Product ={
+export type Register ={
         id: number;
         name: string;
         cpf: number;
@@ -9,4 +9,6 @@ export type Product ={
 }
 
 
-
+export type OrderPayload = {
+      
+}

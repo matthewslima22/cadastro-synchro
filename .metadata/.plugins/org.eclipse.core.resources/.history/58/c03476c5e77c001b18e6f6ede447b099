@@ -1,5 +1,0 @@
-package com.synchro.cadastro.dto;
-
-public class RegisterDTO {
-
-}
